@@ -12,6 +12,7 @@ hugo -t hugo-coder # if using a theme, replace with `hugo -t <YOURTHEME>`
 cd public
 
 # Add changes to git.
+touch .nojekyll
 git add .
 
 # Commit changes.
