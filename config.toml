@@ -14,10 +14,10 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "John Doe"
-    info = "Full Stack DevOps and Magician"
-    description = "John Doe's personal website"
-    keywords = "blog,developer,personal"
+    author = "Marco Kwak"
+    info = "Solutions and Software Engineer"
+    description = "Marco's technical blog"
+    keywords = "blog,developer,se,solutions,engineer"
     avatarurl = "images/avatar.jpg"
 
     favicon_32 = "/img/favicon-32x32.png"
