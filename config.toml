@@ -18,15 +18,15 @@ disqusShortname = "yourdiscussshortname"
     info = "Solutions and Software Engineer"
     description = "Marco's technical blog"
     keywords = "blog,developer,se,solutions,engineer"
-    avatarurl = "images/avatar.jpg"
+    avatarurl = "/images/avatar.jpg"
 
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 
-    footercontent = "Enter a text here."
+    footercontent = "Passionate About Technologies"
 
-    hidecredits = false
-    hidecopyright = false
+    hidecredits = true
+    hidecopyright = true
 
     rtl = false
 
@@ -38,17 +38,19 @@ disqusShortname = "yourdiscussshortname"
     name = "Github"
     icon = "fab fa-github fa-2x"
     weight = 1
-    url = "https://github.com/johndoe/"
+    url = "https://github.com/marcosdeseul/"
 [[params.social]]
-    name = "Gitlab"
-    icon = "fab fa-gitlab fa-2x"
+    name = "LinkedIn"
+    icon = "fab fa-linkedin"
     weight = 2
-    url = "https://gitlab.com/johndoe/"
+    url = "https://www.linkedin.com/in/marco-minsoo-kwak-44367388/"
 [[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter fa-2x"
+    name = "RSS"
+    icon = "fas fa-rss"
     weight = 3
-    url = "https://twitter.com/johndoe/"
+    url = "/index.xml"
+    rel = "alternate"
+    type = "application/rss+xml"
 
 # Menu links
 [[menu.main]]
