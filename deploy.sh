@@ -11,8 +11,10 @@ hugo -t hugo-coder # if using a theme, replace with `hugo -t <YOURTHEME>`
 # Go To Public folder
 cd public
 
-# Add changes to git.
+# Add needed config files
 touch .nojekyll
+
+# Add changes to git.
 git add .
 
 # Commit changes.
