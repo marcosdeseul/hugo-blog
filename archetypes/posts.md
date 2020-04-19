@@ -1,9 +1,9 @@
 +++ 
 draft = true
-date = 2020-04-17T18:29:24+08:00
-title = "My second post"
+date = {{ .Date }}
+title = ""
 description = ""
-slug = "my-second-post" 
+slug = "" 
 tags = []
 categories = []
 externalLink = ""

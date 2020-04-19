@@ -23,10 +23,10 @@ disqusShortname = "yourdiscussshortname"
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 
-    footercontent = "Passionate About Technologies"
+    footercontent = "Passionate about Business and Technologies"
 
     hidecredits = true
-    hidecopyright = true
+    hidecopyright = false
 
     rtl = false
 
