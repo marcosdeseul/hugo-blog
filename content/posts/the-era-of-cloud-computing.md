@@ -7,7 +7,7 @@ slug = ""
 tags = ["cloud", "datacenter"]
 categories = ["Cloud"]
 externalLink = ""
-series = []
+series = ["Hybrid Cloud Journey"]
 +++
 
 ## What is a Computer?

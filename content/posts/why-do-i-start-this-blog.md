@@ -5,7 +5,7 @@ title = "Why do I start this blog?"
 description = ""
 slug = "why-do-i-start-this-blog"
 tags = []
-categories = ["marco"]
+categories = ["Marco"]
 externalLink = ""
 series = []
 +++

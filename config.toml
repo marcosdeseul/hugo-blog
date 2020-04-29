@@ -13,6 +13,11 @@ pygmentscodefencesguesssyntax = true
 
 disqusShortname = "marcokwak"
 
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
 [params]
     author = "Marco Kwak"
     info = "Solutions and Software Engineer"
