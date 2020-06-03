@@ -1,7 +1,7 @@
 +++
 title = "vSAN Edition Comparison"
 date = 2020-05-05T20:02:01+08:00
-draft = true
+draft = false
 description = ""
 slug = ""
 tags = ["vmware", "vsan"]
