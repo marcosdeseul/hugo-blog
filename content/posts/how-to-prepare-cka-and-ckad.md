@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 date = 2020-05-30T19:28:45+08:00
 title = "How to Prepare CKA and CKAD"
 description = ""

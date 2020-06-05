@@ -26,10 +26,11 @@ As a full-stack software engineer, I did:
 
 * Data Engineering
 * Data Visualization
+* DevOps with Docker, Kubernetes
 * JS, Scala, Python, Go
 
 ## More
 
-I am originally from Korea and currently living in Singapore with my sweet wife and a baby boy 🇸🇬 If you know how to read Korean, you can find [my articles in Brunch](https://brunch.co.kr/@imagineer) and [my book, "A Historian Became A Devloper"](https://book.naver.com/bookdb/book_detail.nhn?bid=14257826).
+I am originally from Korea and currently living in Singapore with my sweet wife and a baby boy 🇸🇬 If you can read Korean, you can find [my articles in Brunch](https://brunch.co.kr/@imagineer) and [my book, "A Historian Became A Devloper"](https://book.naver.com/bookdb/book_detail.nhn?bid=14257826).
 
 Thanks for reading!
