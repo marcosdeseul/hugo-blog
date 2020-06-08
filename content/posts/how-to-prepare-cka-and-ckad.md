@@ -18,7 +18,7 @@ Later, I learned `Docker`. Container was a truly new and fascinating technology 
 
 `Kubernetes`, also called `k8s`, is a portable, extensible, open-source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation. (from [kubernetes.io](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)) It solved most of my previous concerns. It supported native load-balancing, auto-scaling, liveness check, etc. I didn't have to worry about the availability of my applications anymore.
 
-In my previous company, I used k8s on a daily basis. We didn't have a big DevOps team or a system engineering team. Most of engineers were software engineeres and we had to find our own solutions to maximize our experience, which was k8s. All of us were senior engineers with a least 5+ years and some of us were with 10-15+ years of experience. We truly wanted to use our existing skill set, not compromising the scability and the availability of products.
+In my previous company, I used k8s on a daily basis. We didn't have a big DevOps team or a system engineering team. Most of engineers were software engineeres and we had to find our own solutions to maximize our experience, which was k8s. All of engineers there were quite senior with a least 5+ years and some of us were with 10-15+ years of experience. We truly wanted to use our existing skill set, not compromising the scability and the availability of products.
 
 ## What are CKA / CKAD?
 
